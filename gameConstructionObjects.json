@@ -19,6 +19,7 @@
 		"italian": "Pavimento di legno semplice",
 		"polish": "Prosta drewniana podłoga",
 		"japanese": "簡単な木の床",
+		"czech": "Jednoduchá dřevěná podlaha",
 	},
 	"woodFloorDescription": {
 		"english": "Yeah, this wooden floor won't win design awards but it's better than nothing, right?",
@@ -36,6 +37,7 @@
 		"italian": "Già, questo pavimento di legno non vincerà premi per il miglior design ma è meglio di niente, giusto?",
 		"polish": "Taaa, ta drewniana podłoga nie wygra konkursu na super projekt, ale lepsze to niż nic, prawda?",
 		"japanese": "何も無いよりマシな美しくない木の床です。",
+		"czech": "Jo, ta dřevěná podlaha nevyhraje ocenění za design, ale je to lepší než nic, ne?",
 	},
 	"strawFloor": {
 		"english": "Straw Floor",
@@ -52,6 +54,8 @@
 		"italian": "Pavimento di paglia",
 		"polish": "Słomiana wyściółka",
 		"japanese": "藁の床",
+		"czech": "Slámová podlaha",
+
 	},
 	"strawFloorDescription": {
 		"english": "It doesn't have to be a sophisticated floor all the time. A bit of straw here and there will do the trick too.",
@@ -68,6 +72,8 @@
 		"italian": "Non si può vivere solamente di pavimenti sofisticati. Un po' di paglia qua e là andrà bene.",
 		"polish": "Nie każda podłoga musi być zawsze wyrafinowana. Odrobina słomy tu i tam też się nada.",
 		"japanese": "藁を引いた床です。",
+		"czech": "Nemusí to být vždy nejhezčí podlaha. Ale trochu té slámy neuškodí.",
+
 	},
 	"cleanWoodFloor": {
 		"english": "Neat Wooden Floor",
@@ -85,6 +91,7 @@
 		"italian": "Pavimento di legno rifinito",
 		"polish": "Jasna drewniana podłoga",
 		"japanese": "木の床",
+		"czech": "elegantní dřevěná podlaha",
 	},
 	"cleanWoodFloorDescription": {
 		"english": "Only the finest trees get assembled to this exquisite piece of flooring!",
@@ -102,6 +109,7 @@
 		"italian": "Solo gli alberi di più alta qualità vengono usati per realizzare questo splendido pavimento!",
 		"polish": "Tylko najlepszego drewna używa się do stworzenia tej wyjątkowej podłogi!",
 		"japanese": "普通の木の床です。意外としっかりしています。",
+		"czech": "K tomuto nádhernému kusu podlahy se kácí pouze ty nejlepší stromy!",
 	},
 	"medievalWoodFloor": {
 		"english": "Medieval Wooden Floor",
@@ -119,6 +127,7 @@
 		"italian": "Pavimento di legno medievale",
 		"polish": "Ciemna drewniana podłoga",
 		"japanese": "中世式建築の床",
+		"czech": "Středověká dřevěná podlaha",
 	},
 	"medievalWoodFloorDescription": {
 		"english": "If floors could tell stories...",
@@ -136,6 +145,7 @@
 		"italian": "Se i pavimenti potessero raccontare storie...",
 		"polish": "Gdyby podłoga mogła mówić...",
 		"japanese": "中世の歴史を感じられる木の床です。",
+		"czech": "Kdyby podlahy mohly vyprávět příběhy...",
 	},
 	"parquet": {
 		"english": "Parquet",
@@ -153,6 +163,7 @@
 		"italian": "Parquet",
 		"polish": "Parkiet",
 		"japanese": "寄木細工の床",
+		"czech": "Parkety",
 	},
 	"parquetDescription": {
 		"english": "While rather expensive, this parquet redefines the general idea of wood floors entirely. Let your colonists feel the difference.",
@@ -170,6 +181,7 @@
 		"italian": "Sebbene sia piuttosto costoso, questo parquet ridefinisce completamente l'idea generale del pavimento di legno. Lascia che i tuoi coloni sentano la differenza.",
 		"polish": "Chociaż ten parkiet jest dość drogi, całkowicie zmienia ogólną koncepcję podłóg drewnianych. Twoi koloniści z pewnością poczują różnicę.",
 		"japanese": "手間暇がかけられているため、かなり高価で美しい床です。ただの木の床の違いを十分に堪能してください。",
+		"czech": "Přestože jsou tyto parkety poměrně drahé, zcela nově definují obecnou představu dřevěných podlah. Nechte své kolonisty pocítit rozdíl.",
 	},
 	"ornamentWoodFloor": {
 		"english": "Ornamented Wooden Floor",
@@ -187,6 +199,7 @@
 		"italian": "Pavimento di legno decorato",
 		"polish": "Klepka podłogowa",
 		"japanese": "装飾された木の床",
+		"czech": "Zdobená dřevěná podlaha",
 	},
 	"ornamentWoodFloorDescription": {
 		"english": "An easy way to add some style to your floors.",
@@ -204,6 +217,7 @@
 		"italian": "Un modo semplice per aggiungere un po' di stile ai tuoi pavimenti.",
 		"polish": "Świetny sposób na dodanie stylu dla podłóg w twoim domu.",
 		"japanese": "木の床に装飾を施された床です。",
+		"czech": "Jednoduchý způsob jak přidat styl",
 	},
 	"ornamentWoodFloorCross": {
 		"english": "Ornamented Wooden Floor",
@@ -221,6 +235,7 @@
 		"italian": "Pavimento di legno decorato",
 		"polish": "Klepka podłogowa",
 		"japanese": "装飾された木の床",
+		"czech": "Zdobená dřevěná podlaha",
 	},
 	"ornamentWoodFloorCrossDescription": {
 		"english": "An easy way to add some style to your floors.",
